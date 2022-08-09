@@ -1,0 +1,15 @@
+<?xml version="1.0" encoding="UTF-8"?>
+<projectDescription>
+<<<<<<< HEAD
+	<name>VInsure-ServerRepo</name>
+=======
+	<name>VInsure</name>
+>>>>>>> branch 'master' of https://github.com/StealtherThreat/VInsure-Server.git
+	<comment></comment>
+	<projects>
+	</projects>
+	<buildSpec>
+	</buildSpec>
+	<natures>
+	</natures>
+</projectDescription>
